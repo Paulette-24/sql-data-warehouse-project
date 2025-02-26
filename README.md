@@ -13,7 +13,7 @@ The project follows the **Medallion Architecture** with three layers:
 ---
 
 ## 📖 Project Scope
-### 🔹 Building the Data Warehouse (Data Engineering)
+### ⚙️ Building the Data Warehouse (Data Engineering)
 - **Data Sources**: Import structured data from ERP and CRM systems.
 - **ETL Pipelines**: Extract, transform, and load data efficiently using SQL & Python.
 - **Data Modeling**: Implement fact and dimension tables optimized for analytical queries.
