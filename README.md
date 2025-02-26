@@ -30,8 +30,8 @@ These insights empower businesses with data-driven decision-making capabilities.
 ---
 
 ## 🛠️ Tools & Technologies
-- **📂 Datasets** – Access to the project dataset (csv files).
-- **🔗 Git Repository** - Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **📂 Datasets** – Access to the project dataset (CSV files).
+- **🔗 Git Repository** - Set up a GitHub account and repository.
 - **🛢️ SQL Server Express** – Lightweight SQL Server for data warehousing.
 - **🖥️ SSMS (SQL Server Management Studio)** – GUI for managing databases.
 - **🎨 Draw.io** – Data architecture and model visualization.
