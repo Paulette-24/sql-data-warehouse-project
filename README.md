@@ -39,7 +39,7 @@ These insights empower businesses with data-driven decision-making capabilities.
 
 ---
 
-## 📂 Repository Structure
+## 🗃️ Repository Structure
 
 ```sql-data-warehouse-project/
 │
@@ -68,7 +68,7 @@ These insights empower businesses with data-driven decision-making capabilities.
 
 ---
 
-## 🚀 Why This Project?
+## 🎯 Why This Project?
 
 This project is perfect for data engineers, SQL developers, and data analysts looking to showcase expertise in:
 
