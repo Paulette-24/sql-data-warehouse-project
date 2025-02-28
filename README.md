@@ -6,6 +6,8 @@ Welcome to the SQL Data Warehouse and ETL Pipeline Project! This project demonst
 ## 🏗️ Data Architecture
 The project follows the **Medallion Architecture** with three layers:
 
+![image](https://github.com/user-attachments/assets/baf272bc-46ed-49b7-8ae1-b589cb79e75b)
+
 - **Bronze Layer** – Ingests raw data from source systems (ERP & CRM CSV files).
 - **Silver Layer** – Cleanses, transforms, and normalizes data for better quality.
 - **Gold Layer** – Stores business-ready data in a star schema for analytics and reporting.
@@ -30,12 +32,12 @@ These insights empower businesses with data-driven decision-making capabilities.
 ---
 
 ## 🛠️ Tools & Technologies
-- **📂 Datasets** – Access to the project dataset (CSV files).
-- **🔗 Git Repository** - Set up a GitHub account and repository.
-- **🛢️ SQL Server Express** – Lightweight SQL Server for data warehousing.
-- **🖥️ SSMS (SQL Server Management Studio)** – GUI for managing databases.
-- **🎨 Draw.io** – Data architecture and model visualization.
-- **📝 Notion Project Steps** – Access to all project phases and tasks..
+- 📂 [**Datasets**](https://github.com/Paulette-24/sql-data-warehouse-project/tree/main/datasets) – Access to the project dataset (CSV files).
+- 🔗 [**Git Repository**](https://github.com/) - Set up a GitHub account and repository.
+- 🛢️ [**SQL Server Express**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) – Lightweight SQL Server for data warehousing.
+- 🖥️ [**SSMS (SQL Server Management Studio**](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms) – GUI for managing databases.
+- 🎨 [**Draw.io**](https://www.drawio.com/) – Data architecture and model visualization.
+- 📝 [**Notion Project Steps**](https://www.notion.so/SQL-Data-Warehouse-Data-Engineering-Project-1a5373bcdbf8804099f6f43a928eb0da) – Access to all project phases and tasks.
 
 ---
 
